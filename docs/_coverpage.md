@@ -2,13 +2,13 @@
 
 <!-- ![logo](_media/icon.svg) -->
 
-# CSSProcess <small>1.0</small>
+# CSS CODE SNIPPETS <small>1.0</small>
 
-> A Practical process for turning mocups to code.
+> A really really useful css code snippets...
 
-- Help you stay organized
-- Prevent editing code each time by following a process
-- Win lots of time
+- Fundementals that should be known
+- Advanced css topics
+- Well organized
 
 [Eljeddi Oussema](https://www.webfletcher.com/EljeddiOussema.html)
-[Get Started](#css-process)
+[Get Started](#fundamentals)
